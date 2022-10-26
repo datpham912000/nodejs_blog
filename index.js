@@ -3,7 +3,7 @@ const app = express()
 const port = 3000
 
 app.get('/tin-tuc', (req, res) => {
-  res.send('Hello World!')
+  res.send('dcmm!')
 })
 
 app.listen(port, () => {
